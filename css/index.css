@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: "Century Gothic";
+}
+
+
+.card-text {
+    color: gray;
+    font-size: 12px
+}
+
+.card-text-banner {
+    color: white;
+    font-size: larger;
+    
+}
+.btn {
+    border-radius: 20px;
+    background-color: rgb(81, 49, 49);
+    border-color: rgb(81, 49, 49);
+}
+
+.btn:hover {
+    background-color: rgb(46, 39, 39);
+}
+
+header {
+    background-color: antiquewhite;
+    padding: 20px;
+}
+
+.dropdown-item, .nav-link {
+    font-size: 18px;
+    color: rgb(125, 122, 89);
+    font-style: bold;
+}
+
+.dropdown-item:hover {
+    color: antiquewhite;
+}
+
+.footer {
+    height: 80px;
+    background-color: antiquewhite;
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+
+
