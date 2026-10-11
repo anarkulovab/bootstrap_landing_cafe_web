@@ -2,13 +2,9 @@
 
 Адаптивный лендинг кофейни на Bootstrap 5. Карточки товаров, баннер с акцией, dropdown-навигация.
 
-## Демо
-
-[Открыть сайт](https://ТВОЙ_ЛОГИН.github.io/bootstrap-coffee-landing/) — если включишь GitHub Pages.
-
 ## Скриншот
 
-(screenshots/page_screenshot.png)
+![](screenshots/page_screenshot.png)
 
 ## Стек
 
