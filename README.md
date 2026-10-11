@@ -23,12 +23,13 @@
 
 ## Структура проекта
 bootstrap-coffee-landing/
-├── css/
-│ └── index.css
-├── assets/
-│ └── ... изображения
-├── index.html
-└── README.md
+|--css/
+| |-index.css
+|-- assets/
+| |-... изображения
+|- index.html
+└- README.md
+
 
 
 ## Как запустить
