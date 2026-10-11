@@ -25,5 +25,5 @@
 ## Как запустить
 
 1. Клонирование репозитория:
-   git clone https://github.com/ТВОЙ_ЛОГИН/bootstrap-coffee-landing.git
+   git clone https://github.com/anarkulovab/bootstrap_landing_cafe_web
 2. Открыть index.html в браузере
